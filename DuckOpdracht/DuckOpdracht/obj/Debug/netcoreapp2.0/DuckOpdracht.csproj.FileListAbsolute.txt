@@ -1,0 +1,4 @@
+C:\Users\Delano\Documents\HZ\Jaar 2\SRE2 Repo\SchoolSRE2a\DuckOpdracht\DuckOpdracht\obj\Debug\netcoreapp2.0\DuckOpdracht.csprojResolveAssemblyReference.cache
+C:\Users\Delano\Documents\HZ\Jaar 2\SRE2 Repo\SchoolSRE2a\DuckOpdracht\DuckOpdracht\obj\Debug\netcoreapp2.0\DuckOpdracht.csproj.CoreCompileInputs.cache
+C:\Users\Delano\Documents\HZ\Jaar 2\SRE2 Repo\SchoolSRE2a\DuckOpdracht\DuckOpdracht\obj\Debug\netcoreapp2.0\DuckOpdracht.AssemblyInfoInputs.cache
+C:\Users\Delano\Documents\HZ\Jaar 2\SRE2 Repo\SchoolSRE2a\DuckOpdracht\DuckOpdracht\obj\Debug\netcoreapp2.0\DuckOpdracht.AssemblyInfo.cs
